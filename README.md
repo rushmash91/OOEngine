@@ -1,4 +1,4 @@
-# OOEngine [Try It](https://ooad-cyberminer.herokuapp.com/)
+# OOEngine 
 
 ## Django Movie Search Engine
 
